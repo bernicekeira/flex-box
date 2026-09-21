@@ -1,0 +1,37 @@
+.flex-item {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    color: white;
+    display: flex;
+}
+.flex-container {
+    display: flex;
+    border: 5px solid red;
+    justify-content: space-around;
+}
+.one{
+    background-color: lightgray;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    background-color: purple;
+    justify-content: center;
+    align-items: center;
+}
+.three{
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+}
+.five{
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+}
